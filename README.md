@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=61DFDB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Express%20Js-61DBFB?style=for-the-badge&logo=EXPRESS&logoColor=61DFDB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Tailwind%20css-009dc4?style=for-the-badge&logo=tailwindcss&logoColor=61DFDB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=61DFDB&labelColor=black)
 
