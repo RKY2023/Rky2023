@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 ### A passionate frontend and backend developer from India
 
-- 🔭 I’m currently working on .NET Full Stack website
+- 🔭 I’m currently working on Ecommerce Full Stack website
 - 🌱 I’m currently learning Redis DB...
 - 💬 Ask me about tailwindcss, nodejs, socket.io 
 
